@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif)]
+[![MasterHead](https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aarushi Nema</h1>
 <h3 align="center">Aspiring Full Stack Developer and Data Scientist based in Singapore</h3>
 <img align="right" alt="Coding" width=400 src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
