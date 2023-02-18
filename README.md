@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarushi Nema</h1>
-<h3 align="center">const GuoYong = { pronouns: "She" | "Her", role: "Vice Chairperson @ Information Technology Committee NTUSU", currentFocus: "Web development and Data Science", goal: "To collaborate with passionate people in the field of web development and data science" };</h3>
+<h3 align="center">const Aarushi = { pronouns: "She" | "Her", role: "Vice Chairperson @ Information Technology Committee NTUSU", currentFocus: "Web development and Data Science", goal: "To collaborate with passionate people in the field of web development and data science" };</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarushi-nema&label=Profile%20views&color=0e75b6&style=flat" alt="aarushi-nema" /> </p>
 
