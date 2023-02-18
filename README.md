@@ -1,11 +1,17 @@
+[![MasterHead](https://media.tenor.com/-buzIaq-QeoAAAAM/code-coding.gif)]
 <h1 align="center">Hi 👋, I'm Aarushi Nema</h1>
-<h3 align="center">const Aarushi = { pronouns: "She" | "Her", role: "Vice Chairperson @ Information Technology Committee NTUSU", currentFocus: "Web development and Data Science", goal: "To collaborate with passionate people in the field of web development and data science" };</h3>
+<h3 align="center">Aspiring Full Stack Developer and Data Scientist based in Singapore</h3>
+<img align="right" alt="Coding" width=400 src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarushi-nema&label=Profile%20views&color=0e75b6&style=flat" alt="aarushi-nema" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aarushi-nema" alt="aarushi-nema" /></a> </p>
+- 🔭 I’m currently working on **UFacility @ NTUSU Information Technology Committee**
 
 - 🌱 I’m currently learning **Full Stack Web Development and Data Science**
+
+- 👯 I’m looking to collaborate on **Web development or data science projects**
+
+- 🤝 I’m looking for help with **Gaining internship or mentorship**
 
 - 👨‍💻 All of my projects are available at [https://aarushinema.com/](https://aarushinema.com/)
 
