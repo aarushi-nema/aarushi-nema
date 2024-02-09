@@ -1,4 +1,3 @@
-[![MasterHead](https://whatifgaming.com/wp-content/uploads/2022/03/Open-A-New-Window.gif)](https://aarushinema.com/)
 <h1 align="center">Hi 👋, I'm Aarushi Nema</h1>
 <h3 align="center">Aspiring Full Stack Developer and Data Scientist based in Singapore</h3>
 <img align="right" alt="Coding" width=400 src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
