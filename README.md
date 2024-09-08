@@ -2,11 +2,9 @@
 
 - 🌱 I have a strong interest in using Data Science and Machine Learning to solve problems
 
-- 👨‍💻 All of my projects are available at [https://aarushinema.com/](https://aarushinema.com/)
-
 - 📫 How to reach me **aarushi.nema02@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17BDdha3C6_emtV3LHpY8B56siv5AgCgB/view?usp=sharing](https://drive.google.com/file/d/17BDdha3C6_emtV3LHpY8B56siv5AgCgB/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Lp6viG4RIZSsHQ45yIm_gwwLEAQP5qmM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
