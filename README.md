@@ -22,14 +22,14 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 
 **Artificial Intelligence / Data Science**
 - [aarushi-nema/UniCRS_GraphRAG](https://github.com/aarushi-nema/UniCRS_GraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
-- [aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project](https://github.com/aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Image-based gender classification model
-- [aarushi-nema/data-science-projects/Dr. Semmelweis and the Discovery of Handwashing](https://github.com/aarushi-nema/data-science-projects/tree/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Dr. Semmelweis and the Discovery of Handwashing
-- [aarushi-nema/data-science-projects/Rise and Fall of Programming Languages](https://github.com/aarushi-nema/data-science-projects/tree/main/Rise%20and%20Fall%20of%20Programming%20Languages): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Rise and Fall of Programming Languages
-- [aarushi-nema/data-science-projects/[PySpark] Orders data cleaning/](https://github.com/aarushi-nema/data-science-projects/tree/main/%5BPySpark%5D%20Orders%20data%20cleaning): PySpark project - Orders data cleaning
+- [aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project](https://github.com/aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project): Image-based gender classification model
 - [aarushi-nema/CZ4034---Information-Retrieval-Project](https://github.com/aarushi-nema/CZ4034---Information-Retrieval-Project): Information retrieval system for users to look up the sentiment surrounding any book that they wish to explore
+- [aarushi-nema/SC1015-Project](https://github.com/aarushi-nema/SC1015-Project): Analysis of global renewable energy consumption
+- [aarushi-nema/data-science-projects/Dr. Semmelweis and the Discovery of Handwashing](https://github.com/aarushi-nema/data-science-projects/tree/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing): Dr. Semmelweis and the Discovery of Handwashing
+- [aarushi-nema/data-science-projects/Rise and Fall of Programming Languages](https://github.com/aarushi-nema/data-science-projects/tree/main/Rise%20and%20Fall%20of%20Programming%20Languages): Rise and Fall of Programming Languages
+- [aarushi-nema/data-science-projects/[PySpark] Orders data cleaning/](https://github.com/aarushi-nema/data-science-projects/tree/main/%5BPySpark%5D%20Orders%20data%20cleaning): PySpark project - Orders data cleaning
 - [aarushi-nema/google_advanced_data_analytics_certification](https://github.com/aarushi-nema/google_advanced_data_analytics_certification): Capstone project of Google Advanced Data Analytics Course
 - [aarushi-nema/Breast-Cancer-SVM-Classifier](https://github.com/aarushi-nema/Breast-Cancer-SVM-Classifier): Support Vector Machine Model to classify whether a certain cell is at a benign or malignant stage
-- [aarushi-nema/SC1015-Project](https://github.com/aarushi-nema/SC1015-Project): Analysis of global renewable energy consumption 
 
 
 **Full Stack**
@@ -87,8 +87,6 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white)
-
-
 
 ## <img src="https://github.com/user-attachments/assets/85168862-3988-4832-bf64-5b3bfa22b220" alt="mewheart" width="20px" height="20px" /> Social
 
