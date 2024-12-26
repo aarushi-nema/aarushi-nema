@@ -1,4 +1,4 @@
-## Hi there! 👋🏻
+## Hello, World! 👋🏻
 
 My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technological University (NTU), Singapore.
 
@@ -32,17 +32,13 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [aarushi-nema/SC1015-Project](https://github.com/aarushi-nema/SC1015-Project): Analysis of global renewable energy consumption 
 
 
-**Full Stack Web**
+**Full Stack**
 - [aarushi-nema/mindscope_cs (frontend)](https://github.com/aarushi-nema/mindscope_cs/tree/main/mindscope_app): Mindscope: A mobile app to tackle unconsious bias (Credit Suisse Mentorship Programme Project)
 - [aarushi-nema/mindscope_backend](https://github.com/aarushi-nema/mindscope_backend): Mindscope: A mobile app to tackle unconsious bias (Credit Suisse Mentorship Programme Project)
 - [gillwong/ntusu-itc-frontend](https://github.com/gillwong/ntusu-itc-frontend): 
 - [aarushi-nema/-React-Todo-App](https://github.com/aarushi-nema/-React-Todo-App): React-based beginner project
 
-**Other**
-- [aarushi-nema/arduino](https://github.com/aarushi-nema/arduino): 38 Arduino and NodeMCU projects
-- [aarushi-nema/raspberry_pi](https://github.com/aarushi-nema/raspberry_pi): 4 basic raspberry pi projects
-
-**Academic**
+**University**
 - [SC1003 Introduction to Compuational Thinking](https://github.com/aarushi-nema/sc1003_assignment_c/tree/main): A C program implementing a name card management system with functions to list, add, remove, and search business cards
 - [SC1015 Data Science & Artificial Intelligence](https://github.com/aarushi-nema/SC1015-Project): Analysis of global renewable energy consumption 
 - [SC2002 Object Orientated Programming](https://github.com/aarushi-nema/SC2002-Hotel-Reservation-and-Payment-System): Java Based Hotel Management and Reservation System
@@ -60,7 +56,11 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [aarushi-nema/webDev004_reviewsPage](https://github.com/aarushi-nema/webDev004_reviewsPage): Display customer reviews
 - [aarushi-nema/webDev003_quotes_generator](https://github.com/aarushi-nema/webDev003_quotes_generator): InspireMe: Random quote generator.
 
-## <img src="https://github.com/user-attachments/assets/85168862-3988-4832-bf64-5b3bfa22b220" alt="stars" width="20px" height="20px"/> Things I code with:
+  **Others**
+- [aarushi-nema/arduino](https://github.com/aarushi-nema/arduino): 38 Arduino and NodeMCU projects
+- [aarushi-nema/raspberry_pi](https://github.com/aarushi-nema/raspberry_pi): 4 basic raspberry pi projects
+
+## <img src="https://github.com/user-attachments/assets/85168862-3988-4832-bf64-5b3bfa22b220" alt="stars" width="20px" height="20px"/> Tools of the Trade:
 
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/Pandas-244e71?style=flat-square&logo=pandas&logoColor=ffffff)
