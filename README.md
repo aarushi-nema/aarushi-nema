@@ -14,11 +14,11 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [May 2024 - Aug 2024](https://www.linkedin.com/company/hmgics/posts/?feedView=all): Data Platform Intern Intern @ Hyundai Motor Group Innovation Centre Singapore (HMGICS)
 - [May 2023 - Dec 2023](https://www.linkedin.com/company/infineon-technologies/posts/?feedView=all): Software Development (Data Application) Intern @ Infineon Technologies
 
-## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Mentorship Experience
+## <img src="https://github.com/user-attachments/assets/85168862-3988-4832-bf64-5b3bfa22b220" alt="work" width="20px" height="20px"/> Mentorship Experience
 - [Apr 2024 - May 2024](https://www.instagram.com/we_are_micron/p/C3ghoNyPpTT/): Global Women Mentorship Programme 2024 @ Micron
 - [Apr 2023 - July 2023](https://www.linkedin.com/feed/update/urn:li:activity:6955783484435009536/): INSPIRE Women in Tech Mentorship Program 2023 @ Credit Suisse 
 
-## <img src="https://user-images.githubusercontent.com/59118459/169634580-cf0d3886-3703-4ab7-8b28-f4aa869541a2.gif" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
+## <img src="https://github.com/user-attachments/assets/85168862-3988-4832-bf64-5b3bfa22b220" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
 
 **Artificial Intelligence / Data Science**
 - [aarushi-nema/UniCRS_GraphRAG](https://github.com/aarushi-nema/UniCRS_GraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
@@ -60,7 +60,7 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [aarushi-nema/webDev004_reviewsPage](https://github.com/aarushi-nema/webDev004_reviewsPage): Display customer reviews
 - [aarushi-nema/webDev003_quotes_generator](https://github.com/aarushi-nema/webDev003_quotes_generator): InspireMe: Random quote generator.
 
-## <img src="https://github.com/user-attachments/assets/74a07f01-3198-4d3f-807b-9865fe0dd058" alt="stars" width="20px" height="20px"/> Things I code with:
+## <img src="https://github.com/user-attachments/assets/85168862-3988-4832-bf64-5b3bfa22b220" alt="stars" width="20px" height="20px"/> Things I code with:
 
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-%23007ACC?style=flat-square&logo=react&logoColor=white)
@@ -83,7 +83,7 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 ![MySQL](https://img.shields.io/badge/MySQL-%2307405e.svg?style=flat-square&logo=mysql&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
 
-## <img src="https://user-images.githubusercontent.com/59118459/193049628-b56bba85-b2da-4d04-8bd1-7f79ea015feb.gif" alt="mewheart" width="20px" height="20px" /> Social
+## <img src="https://github.com/user-attachments/assets/85168862-3988-4832-bf64-5b3bfa22b220" alt="mewheart" width="20px" height="20px" /> Social
 
 [![LinkedIn](https://img.shields.io/badge/-Aarushi%20Nema-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarushi-nema-64a006185/)](https://www.linkedin.com/in/aarushi-nema-64a006185/)
 [![Email](https://img.shields.io/badge/-aarushi.nema02@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aarushi.nema02@gmail.com)
