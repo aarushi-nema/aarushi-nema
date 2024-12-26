@@ -6,14 +6,10 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - 💜 Data Engineering/Analysis/Viz
 - 🧠 AI Research: LLMs and Recommender Systems
 - 🌐 Full-stack Development: React/ReactJS + Python/NodeJS/Django
-- 👩‍💻 2 internship experience and 2 Metonorship programs
+- 👩‍💻 2 internship experience and 2 Mentorship programs
 - 🏆 1x hackathon winner + 1x semi-finalist
 
-## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Research Experience
-
-- [Aug 2024 - May 2025](https://www.ntu.edu.sg/): Final Year Project @ NTU
-
-## <img src="https://user-images.githubusercontent.com/59118459/194597694-d5340bd9-b5aa-464b-ae0c-446632a59f16.gif" alt="work" width="20px" height="20px"/> Work Experience
+## <img src="https://github.com/user-attachments/assets/85168862-3988-4832-bf64-5b3bfa22b220" alt="work" width="20px" height="20px"/> Work Experience
 
 - [May 2024 - Aug 2024](https://www.linkedin.com/company/hmgics/posts/?feedView=all): Data Platform Intern Intern @ Hyundai Motor Group Innovation Centre Singapore (HMGICS)
 - [May 2023 - Dec 2023](https://www.linkedin.com/company/infineon-technologies/posts/?feedView=all): Software Development (Data Application) Intern @ Infineon Technologies
