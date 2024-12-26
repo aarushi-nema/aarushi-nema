@@ -64,8 +64,7 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [aarushi-nema/webDev004_reviewsPage](https://github.com/aarushi-nema/webDev004_reviewsPage): Display customer reviews
 - [aarushi-nema/webDev003_quotes_generator](https://github.com/aarushi-nema/webDev003_quotes_generator): InspireMe: Random quote generator.
 
-
-## <img src="https://user-images.githubusercontent.com/59118459/194571601-3db32470-58c8-49e0-b201-5aedff2dcbbf.gif" alt="stars" width="20px" height="20px"/> Things I code with:
+## <img src="https://github.com/user-attachments/assets/74a07f01-3198-4d3f-807b-9865fe0dd058" alt="stars" width="20px" height="20px"/> Things I code with:
 
 ![Python](http://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-%23007ACC?style=flat-square&logo=react&logoColor=white)
