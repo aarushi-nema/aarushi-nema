@@ -5,7 +5,7 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - 📚 Bachelor of Computing, Data Science and Artificial Intelligence
 - 💜 Data Engineering/Analysis/Viz
 - 🧠 AI Research: LLMs and Recommender Systems
-- 🌐 Full-stack Development: React/ReactJS + Python/NodeJS/Django
+- 🌐 Full-stack Development: React/React Native + Python/NodeJS/Django
 - 👩‍💻 2 internship experience and 2 Mentorship programs
 - 🏆 1x hackathon winner + 1x semi-finalist
 
