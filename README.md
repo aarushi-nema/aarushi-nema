@@ -32,11 +32,10 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [aarushi-nema/google_advanced_data_analytics_certification](https://github.com/aarushi-nema/google_advanced_data_analytics_certification): Capstone project of Google Advanced Data Analytics Course
 - [aarushi-nema/Breast-Cancer-SVM-Classifier](https://github.com/aarushi-nema/Breast-Cancer-SVM-Classifier): Support Vector Machine Model to classify whether a certain cell is at a benign or malignant stage
 
-
 **Full Stack**
 - [aarushi-nema/mindscope_cs (frontend)](https://github.com/aarushi-nema/mindscope_cs/tree/main/mindscope_app): Mindscope: A mobile app to tackle unconsious bias (Credit Suisse Mentorship Programme Project)
 - [aarushi-nema/mindscope_backend](https://github.com/aarushi-nema/mindscope_backend): Mindscope: A mobile app to tackle unconsious bias (Credit Suisse Mentorship Programme Project)
-- [gillwong/ntusu-itc-frontend](https://github.com/gillwong/ntusu-itc-frontend): 
+- [gillwong/ntusu-itc-frontend](https://github.com/gillwong/ntusu-itc-frontend): Web portal for NTU's Student Union
 - [aarushi-nema/-React-Todo-App](https://github.com/aarushi-nema/-React-Todo-App): React-based beginner project
 
 **University**
@@ -46,6 +45,7 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [SC2006 Software Engineering Project](https://github.com/xJQx/sc2006-feeditforward): OpenJIO - an application that can facilitate physical social activities among youths and adults in Singapore.
 - [CZ4042 Neural Networks & Deep Learning](https://github.com/aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project): Image base Gender Classification
 - [CZ4034 Information Retrieval](https://github.com/aarushi-nema/CZ4034---Information-Retrieval-Project): Information retrieval system for users to look up the sentiment surrounding any book that they wish to explore
+- [SC4024 DATA VISUALISATION](https://github.com/aarushi-nema/SC4024-Data-Visualization/): This project aims to analyse the global trends in life expectancy which can be a powerful indicator of a country’s overall economic stability, social conditions, and public health equality
 - [Final Year Project](https://github.com/aarushi-nema/UniCRS_GraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
 
 **High School**
