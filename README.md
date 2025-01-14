@@ -49,7 +49,7 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [Final Year Project](https://github.com/aarushi-nema/UniCRS_GraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
 
 **High School**
-- [aarushi-nema/webDev009_restaurant_Website](https://github.com/aarushi-nema/webDev009_restaurant_Website): This project is a complete one-page responsive website that caters to a restaurant's online presence.
+- [aarushi-nema/webDev009_restaurant_Website](https://github.com/aarushi-nema/webDev009_restaurant_Website): This project is a complete one-page responsive website that caters to a restaurant's online presence
 - [aarushi-nema/webDev008_sticky_Nav_Bar](https://github.com/aarushi-nema/webDev008_sticky_Nav_Bar): Sticky navigation bar that changes color on scrolling
 - [aarushi-nema/webDev007_piano](https://github.com/aarushi-nema/webDev007_piano): Web-based Piano interface
 - [aarushi-nema/webDev006_analogClock](https://github.com/aarushi-nema/webDev006_analogClock): Web-based analog clock interface
@@ -57,7 +57,7 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [aarushi-nema/webDev004_reviewsPage](https://github.com/aarushi-nema/webDev004_reviewsPage): Display customer reviews
 - [aarushi-nema/webDev003_quotes_generator](https://github.com/aarushi-nema/webDev003_quotes_generator): InspireMe: Random quote generator.
 
-  **Others**
+**Others**
 - [aarushi-nema/arduino](https://github.com/aarushi-nema/arduino): 38 Arduino and NodeMCU projects
 - [aarushi-nema/raspberry_pi](https://github.com/aarushi-nema/raspberry_pi): 4 basic raspberry pi projects
 
