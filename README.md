@@ -45,7 +45,9 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [SC2006 Software Engineering Project](https://github.com/xJQx/sc2006-feeditforward): OpenJIO - an application that can facilitate physical social activities among youths and adults in Singapore.
 - [CZ4042 Neural Networks & Deep Learning](https://github.com/aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project): Image base Gender Classification
 - [CZ4034 Information Retrieval](https://github.com/aarushi-nema/CZ4034---Information-Retrieval-Project): Information retrieval system for users to look up the sentiment surrounding any book that they wish to explore
-- [SC4024 DATA VISUALISATION](https://github.com/aarushi-nema/SC4024-Data-Visualization/): This project aims to analyse the global trends in life expectancy which can be a powerful indicator of a country’s overall economic stability, social conditions, and public health equality
+- [SC3020 Database System Principles](https://github.com/kristianachwan/sc3020-project1): Project 1: B+ Tree Indexing of IMDb Movies Rating & Votes
+- [SC3020 Database System Principles](https://github.com/kristianachwan/sc3020-project2): Project 2: Understanding Cost Estimation IN RDBMS
+- [SC4024 Data Visualization](https://github.com/aarushi-nema/SC4024-Data-Visualization/): This project aims to analyse the global trends in life expectancy which can be a powerful indicator of a country’s overall economic stability, social conditions, and public health equality
 - [Final Year Project](https://github.com/aarushi-nema/UniCRS_GraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
 
 **High School**
