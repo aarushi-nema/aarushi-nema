@@ -21,7 +21,7 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 ## <img src="https://github.com/user-attachments/assets/85168862-3988-4832-bf64-5b3bfa22b220" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
 
 **Artificial Intelligence / Data Science**
-- [aarushi-nema/UniCRS_GraphRAG](https://github.com/aarushi-nema/UniCRS_GraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
+- [aarushi-nema/UniCRS_GraphRAG](https://github.com/aarushi-nema/Project-UniCRSxGraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
 - [aarushi-nema/project_luna](https://github.com/aarushi-nema/project_luna): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Project Luna: An AI-based mobile app to promote hormonal and menstrual wellness
 - [aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project](https://github.com/aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project): Image-based gender classification model
 - [aarushi-nema/CZ4034---Information-Retrieval-Project](https://github.com/aarushi-nema/CZ4034---Information-Retrieval-Project): Information retrieval system for users to look up the sentiment surrounding any book that they wish to explore
@@ -48,7 +48,7 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [SC3020 Database System Principles](https://github.com/kristianachwan/sc3020-project1): Project 1: B+ Tree Indexing of IMDb Movies Rating & Votes
 - [SC3020 Database System Principles](https://github.com/kristianachwan/sc3020-project2): Project 2: Understanding Cost Estimation IN RDBMS
 - [SC4024 Data Visualization](https://github.com/aarushi-nema/SC4024-Data-Visualization/): This project aims to analyse the global trends in life expectancy which can be a powerful indicator of a country’s overall economic stability, social conditions, and public health equality
-- [Final Year Project](https://github.com/aarushi-nema/UniCRS_GraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
+- [Final Year Project](https://github.com/aarushi-nema/Project-UniCRSxGraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
 
 **High School**
 - [aarushi-nema/webDev009_restaurant_Website](https://github.com/aarushi-nema/webDev009_restaurant_Website): This project is a complete one-page responsive website that caters to a restaurant's online presence
