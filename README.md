@@ -23,8 +23,10 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 **Artificial Intelligence / Data Science**
 - [aarushi-nema/UniCRS_GraphRAG](https://github.com/aarushi-nema/Project-UniCRSxGraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
 - [aarushi-nema/project_luna](https://github.com/aarushi-nema/project_luna): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Project Luna: An AI-based mobile app to promote hormonal and menstrual wellness
+- [pareenakaur/SC4000-Machine-Learning-Project](https://github.com/pareenakaur/SC4000-ML-Grp1/tree/main): Elo Merchant Category Recommendation Kaggle Competition
+- [aarushi-nema/SC4023_Big_Data](https://github.com/aarushi-nema/SC4023_Big_Data): A column-store database and conduct analysis on the resale of HDB flats in Singapore
 - [aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project](https://github.com/aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project): Image-based gender classification model
-- [aarushi-nema/CZ4034---Information-Retrieval-Project](https://github.com/aarushi-nema/CZ4034---Information-Retrieval-Project): Information retrieval system for users to look up the sentiment surrounding any book that they wish to explore
+- [aarushi-nema/CZ4034-Information-Retrieval-Project](https://github.com/aarushi-nema/CZ4034---Information-Retrieval-Project): Information retrieval system for users to look up the sentiment surrounding any book that they wish to explore
 - [aarushi-nema/SC1015-Project](https://github.com/aarushi-nema/SC1015-Project): Analysis of global renewable energy consumption
 - [aarushi-nema/data-science-projects/Dr. Semmelweis and the Discovery of Handwashing](https://github.com/aarushi-nema/data-science-projects/tree/main/Dr.%20Semmelweis%20and%20the%20Discovery%20of%20Handwashing): Dr. Semmelweis and the Discovery of Handwashing
 - [aarushi-nema/data-science-projects/Rise and Fall of Programming Languages](https://github.com/aarushi-nema/data-science-projects/tree/main/Rise%20and%20Fall%20of%20Programming%20Languages): Rise and Fall of Programming Languages
@@ -48,6 +50,8 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [SC3020 Database System Principles](https://github.com/kristianachwan/sc3020-project1): Project 1: B+ Tree Indexing of IMDb Movies Rating & Votes
 - [SC3020 Database System Principles](https://github.com/kristianachwan/sc3020-project2): Project 2: Understanding Cost Estimation IN RDBMS
 - [SC4024 Data Visualization](https://github.com/aarushi-nema/SC4024-Data-Visualization/): This project aims to analyse the global trends in life expectancy which can be a powerful indicator of a country’s overall economic stability, social conditions, and public health equality
+- [SC4000 Machine Learning Project](https://github.com/pareenakaur/SC4000-ML-Grp1/tree/main): Elo Merchant Category Recommendation Kaggle Competition
+- [SC4023 Big Data Management](https://github.com/aarushi-nema/SC4023_Big_Data): A column-store database and conduct analysis on the resale of HDB flats in Singapore
 - [Final Year Project](https://github.com/aarushi-nema/Project-UniCRSxGraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
 
 **High School**
