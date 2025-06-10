@@ -22,9 +22,9 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 
 **Artificial Intelligence / Data Science**
 - [aarushi-nema/UniCRS_GraphRAG](https://github.com/aarushi-nema/Project-UniCRSxGraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
-- [aarushi-nema/project_luna](https://github.com/aarushi-nema/project_luna): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Project Luna: An AI-based mobile app to promote hormonal and menstrual wellness
 - [pareenakaur/SC4000-Machine-Learning-Project](https://github.com/pareenakaur/SC4000-ML-Grp1/tree/main): Elo Merchant Category Recommendation Kaggle Competition
 - [aarushi-nema/SC4023_Big_Data](https://github.com/aarushi-nema/SC4023_Big_Data): A column-store database and conduct analysis on the resale of HDB flats in Singapore
+- [aarushi-nema/SC4003_Intelligent_Agents](https://github.com/aarushi-nema/SC4003_Intelligent_Agents): (1) Value and Policy Iteration based agent for grid environment (2) 3 Prisoner's Dilemma
 - [aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project](https://github.com/aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project): Image-based gender classification model
 - [aarushi-nema/CZ4034-Information-Retrieval-Project](https://github.com/aarushi-nema/CZ4034---Information-Retrieval-Project): Information retrieval system for users to look up the sentiment surrounding any book that they wish to explore
 - [aarushi-nema/SC1015-Project](https://github.com/aarushi-nema/SC1015-Project): Analysis of global renewable energy consumption
