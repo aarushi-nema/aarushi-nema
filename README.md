@@ -21,8 +21,8 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 ## <img src="https://github.com/user-attachments/assets/85168862-3988-4832-bf64-5b3bfa22b220" alt="BunnyStudyRead" width="20px" height="20px"/> Projects
 
 **Artificial Intelligence / Data Science**
-- [aarushi-nema/UniCRS_GraphRAG](https://github.com/aarushi-nema/Project-UniCRSxGraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
-- [pareenakaur/SC4000-Machine-Learning-Project](https://github.com/pareenakaur/SC4000-ML-Grp1/tree/main): Elo Merchant Category Recommendation Kaggle Competition
+- [aarushi-nema/UniCRS_GraphRAG](https://github.com/aarushi-nema/Project-UniCRSxGraphRAG): Using GraphRAG and LLMs to build a conversational recommendation engine
+- [pareenakaur/SC4000-Machine-Learning-Project](https://github.com/pareenakaur/SC4000-ML-Grp1/tree/main): Elo Merchant Category Recommendation Kaggle Competition (Placed in top 5 on the mod)
 - [aarushi-nema/SC4023_Big_Data](https://github.com/aarushi-nema/SC4023_Big_Data): A column-store database and conduct analysis on the resale of HDB flats in Singapore
 - [aarushi-nema/SC4003_Intelligent_Agents](https://github.com/aarushi-nema/SC4003_Intelligent_Agents): (1) Value and Policy Iteration based agent for grid environment (2) 3 Prisoner's Dilemma
 - [aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project](https://github.com/aarushi-nema/CZ4042-Neural-Networks-and-Deep-Learning-Project): Image-based gender classification model
@@ -50,9 +50,10 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 - [SC3020 Database System Principles](https://github.com/kristianachwan/sc3020-project1): Project 1: B+ Tree Indexing of IMDb Movies Rating & Votes
 - [SC3020 Database System Principles](https://github.com/kristianachwan/sc3020-project2): Project 2: Understanding Cost Estimation IN RDBMS
 - [SC4024 Data Visualization](https://github.com/aarushi-nema/SC4024-Data-Visualization/): This project aims to analyse the global trends in life expectancy which can be a powerful indicator of a country’s overall economic stability, social conditions, and public health equality
-- [SC4000 Machine Learning Project](https://github.com/pareenakaur/SC4000-ML-Grp1/tree/main): Elo Merchant Category Recommendation Kaggle Competition
+- [SC4000 Machine Learning Project](https://github.com/pareenakaur/SC4000-ML-Grp1/tree/main): Elo Merchant Category Recommendation Kaggle Competition (Placed in top 5 on the mod)
 - [SC4023 Big Data Management](https://github.com/aarushi-nema/SC4023_Big_Data): A column-store database and conduct analysis on the resale of HDB flats in Singapore
-- [Final Year Project](https://github.com/aarushi-nema/Project-UniCRSxGraphRAG): <img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> Using GraphRAG and LLMs to build a conversational recommendation engine
+- - [aarushi-nema/SC4003_Intelligent_Agents](https://github.com/aarushi-nema/SC4003_Intelligent_Agents): (1) Value and Policy Iteration based agent for grid environment (2) 3 Prisoner's Dilemma
+- [Final Year Project](https://github.com/aarushi-nema/Project-UniCRSxGraphRAG): Using GraphRAG and LLMs to build a conversational recommendation engine
 
 **High School**
 - [aarushi-nema/webDev009_restaurant_Website](https://github.com/aarushi-nema/webDev009_restaurant_Website): This project is a complete one-page responsive website that caters to a restaurant's online presence
@@ -100,3 +101,5 @@ My name is `Aarushi Nema`. I am an undergraduate student from Nanyang Technologi
 [![LinkedIn](https://img.shields.io/badge/-Aarushi%20Nema-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aarushi-nema-64a006185/)](https://www.linkedin.com/in/aarushi-nema-64a006185/)
 [![Email](https://img.shields.io/badge/-aarushi.nema02@gmail.com-red?style=flat-square&logo=gmail&logoColor=white)](mailto:aarushi.nema02@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/aarushi-nema?style=social&label=Follow)](https://github.com/aarushi-nema)
+
+<img src="https://user-images.githubusercontent.com/59118459/194571865-99c38b11-ed67-4052-b4f2-6c25ed429ea1.gif" alt="work" width="14px" height="14px"/> => in progress
